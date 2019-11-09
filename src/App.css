@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -19,4 +20,41 @@
 
 .App-link {
   color: #09d3ac;
+}
+body{
+  background-color: #c0392b;
+  color: #fff;
+}
+
+h1{
+  color: #000;
+}
+
+h2{
+  color: #000;
+}
+
+p{
+  color: #fff;
+}
+
+ul{
+  color: #000;
+}
+
+.card-body{
+  
+    color: #000;
+  
+}
+.pokeList{
+  color: #fff;
+}
+
+.nav-link{
+  color: #000;
+}
+
+.title{
+  color: #fff;
 }
