@@ -1,3 +1,12 @@
+## README
+
+To run this project, just npm start (skip if using hosted app (https://pokompare.web.app/)) 
+
+click on a card to launch the modal and search for another pokemon to compare.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
